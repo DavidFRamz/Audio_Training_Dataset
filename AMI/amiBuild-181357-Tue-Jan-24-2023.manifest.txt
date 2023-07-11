@@ -1,0 +1,10 @@
+All of the signals and transcription, and some of the annotations, have been released publicly under the  Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0). 
+
+	License text: CCBY4.0.txt
+
+Content of the download:
+
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004b/audio/ES2004b.Lapel-0.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004b/audio/ES2004b.Lapel-1.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004b/audio/ES2004b.Lapel-2.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004b/audio/ES2004b.Lapel-3.wav

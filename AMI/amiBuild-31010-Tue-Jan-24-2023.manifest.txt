@@ -1,0 +1,11 @@
+All of the signals and transcription, and some of the annotations, have been released publicly under the  Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0). 
+
+	License text: CCBY4.0.txt
+
+Content of the download:
+
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/EN2001a/audio/EN2001a.Headset-0.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/EN2001a/audio/EN2001a.Headset-1.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/EN2001a/audio/EN2001a.Headset-2.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/EN2001a/audio/EN2001a.Headset-3.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/EN2001a/audio/EN2001a.Headset-4.wav

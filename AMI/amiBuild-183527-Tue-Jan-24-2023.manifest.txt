@@ -1,0 +1,22 @@
+All of the signals and transcription, and some of the annotations, have been released publicly under the  Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0). 
+
+	License text: CCBY4.0.txt
+
+Content of the download:
+
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-01.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-02.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-03.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-04.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-05.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-06.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-07.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array1-08.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-01.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-02.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-03.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-04.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-05.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-06.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-07.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2004a/audio/ES2004a.Array2-08.wav
